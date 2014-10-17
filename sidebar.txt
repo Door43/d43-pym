@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pym:home|Door43 (pym)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pym|d43-pym repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pym/archive/master.zip|d43-pym.zip]]
+
+**Recent Changes**
+{{changes>ns = pym}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pym|Ethnologue data]]
+
